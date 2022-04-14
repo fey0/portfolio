@@ -1,6 +1,6 @@
 # portfolio
 
-# project 1 (https://github.com/fey0/Netflix-Recommender)
+# [project 1](https://github.com/fey0/Netflix-Recommender)
 * A netflix recommendation system 
 * Was created using a netflix dataset from a kaggle repository
 * I made this to learn how the TFIDF (Term Frequency, Inverse Document Frequency) technique worked 
