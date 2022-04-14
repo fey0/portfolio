@@ -1,4 +1,4 @@
-# portfolio
+# Feysele Portfolio
 
 # [Project 1](https://github.com/fey0/Netflix-Recommender)
 * A netflix recommendation system 
