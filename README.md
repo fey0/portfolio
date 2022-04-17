@@ -21,7 +21,7 @@
 <img width="447" alt="Screen Shot 2021-12-07 at 11 15 47 AM" src="https://user-images.githubusercontent.com/103683812/163730358-bb52fc85-d494-47b7-afb6-40abe4734bb7.png">
 
 # [Data Visualization in Tabluea](https://feyseleyimer.free.resourcespace.com/?c=10&k=230f2213ca)
-* This repository comprise of the visaul works I have done in Tabluea
+* This repository comprises of the visaul works I have done in Tabluea
 * One of the prominent project was on the NYC Airbnb analysis
 
 # [Analysis Reports](https://feyseleyimer.free.resourcespace.com/?c=9&k=bbf4ee7f22)
