@@ -1,5 +1,13 @@
 # Feysele Portfolio
 
+# About Me
+Degree Awarded: Associate of Science in the School of Engineering, Technology,
+Mathematics, and Sciences (05/21 from Dallas College)
+
+Current Institution: University of North Texas, 1155 Union Circle #311277 Denton, Texas 76203-5017 (2021- Present)
+ 
+Pursuing BS in Information Science with a concentration in Data Science
+
 # [Main Project](https://github.com/fey0/Netflix-Recommender)
 * A netflix recommendation system 
 * Was created using a netflix dataset from a kaggle repository
@@ -34,3 +42,8 @@
 * The database uses Hadoop decentralized system for storage and processing of datasets
 * It also showcases my skillset with SQL queries
 
+# Interests:
+Ø Options and Stocks
+Ø Building computer systems
+Ø Learning Languages: Japanese and Latin 
+Ø Machine Learning and Deep Learning
