@@ -8,7 +8,7 @@
 * the TFIDF is used for giving each words in a document or description a weight which can be used to facilitate search for relevant items or in this case content
 * I added up on this by using it in a reccomendation system that provides users recommendations that are similar to their watched list
 
-#Basic Analysis of Dataset
+# Basic Analysis of Dataset
 <img width="153" alt="Screen Shot 2021-12-06 at 9 40 41 PM" src="https://user-images.githubusercontent.com/103683812/163730384-4412659f-f59d-4ad8-812b-70e8bb06782e.png">
 
 # Requirements 
