@@ -20,4 +20,9 @@
 # Example
 <img width="447" alt="Screen Shot 2021-12-07 at 11 15 47 AM" src="https://user-images.githubusercontent.com/103683812/163730358-bb52fc85-d494-47b7-afb6-40abe4734bb7.png">
 
-
+# My other Works 
+* Analysis on NYC Airbnb 
+* Analysis report on the company ViacomCBS
+* Data Visualization with Tabluea 
+* Hadoop, HIVE, Spark setup and usage on Google Cloud Platform
+* URL TO ALL WORK:
