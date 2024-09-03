@@ -1,14 +1,14 @@
 # Feysele Portfolio
-Education
-University of North Texas, Denton, Texas
-Bachelor of Science in Information Science, Concentration in Data Science
-GPA: 4.0 / 4.0
-Graduation: December 2023
+# Education  
+University of North Texas, Denton, Texas  
+Bachelor of Science in Information Science, Concentration in Data Science  
+GPA: 4.0 / 4.0  
+Graduation: December 2023  
 Awards: Dean's List for 4 Semesters
 
-Dallas College, Dallas, Texas
-Associate of Science, School of Engineering, Technology, Mathematics, and Sciences
-GPA: 4.0 / 4.0
+Dallas College, Dallas, Texas  
+Associate of Science, School of Engineering, Technology, Mathematics, and Sciences  
+GPA: 4.0 / 4.0  
 Graduation: May 2021
 
 # [Main Project](https://github.com/fey0/Netflix-Recommender)
