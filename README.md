@@ -34,6 +34,7 @@ Graduation: May 2021
 # [Data Visualization in Tabluea](https://feyseleyimer.free.resourcespace.com/?c=10&k=230f2213ca)
 * This repository comprises of the visaul works I have done in Tabluea
 * One of the prominent project was on the NYC Airbnb analysis
+![image](https://github.com/user-attachments/assets/6871376c-0074-4bda-bc8e-ee07b444c3cf)
 
 # [Analysis Reports](https://feyseleyimer.free.resourcespace.com/?c=9&k=bbf4ee7f22)
 * Analysis on NYC Airbnb 
