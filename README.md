@@ -40,7 +40,7 @@ Graduation: May 2021
 * Analysis report on the company ViacomCBS
 * The reports provide company insight and recommendations
 
-# [Hadoop, HIVE, Spark and SQL Experience]()
+# [Hadoop, HIVE, Spark and SQL Experience](https://feyseleyimer.free.resourcespace.com/?c=12&k=aed73473e8)
 * I implemented a database in Google Cloud Platform
 * The database uses Hadoop decentralized system for storage and processing of datasets
 * It also showcases my skillset with SQL queries
