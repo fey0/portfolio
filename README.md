@@ -1,12 +1,15 @@
 # Feysele Portfolio
+Education
+University of North Texas, Denton, Texas
+Bachelor of Science in Information Science, Concentration in Data Science
+GPA: 4.0 / 4.0
+Graduation: December 2023
+Awards: Dean's List for 4 Semesters
 
-# About Me
-Degree Awarded: Associate of Science in the School of Engineering, Technology,
-Mathematics, and Sciences (05/21 from Dallas College)
-
-Current Institution: University of North Texas, 1155 Union Circle #311277 Denton, Texas 76203-5017 (2021- Present)
- 
-Pursuing BS in Information Science with a concentration in Data Science
+Dallas College, Dallas, Texas
+Associate of Science, School of Engineering, Technology, Mathematics, and Sciences
+GPA: 4.0 / 4.0
+Graduation: May 2021
 
 # [Main Project](https://github.com/fey0/Netflix-Recommender)
 * A netflix recommendation system 
