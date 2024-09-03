@@ -43,7 +43,6 @@ Pursuing BS in Information Science with a concentration in Data Science
 * It also showcases my skillset with SQL queries
 
 # Interests:
-* Options and Stocks
 * Building computer systems
 * Learning Languages: Japanese and Latin 
 * Machine Learning and Deep Learning
