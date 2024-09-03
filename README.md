@@ -31,11 +31,12 @@ Graduation: May 2021
 # Example
 <img width="447" alt="Screen Shot 2021-12-07 at 11 15 47 AM" src="https://user-images.githubusercontent.com/103683812/163730358-bb52fc85-d494-47b7-afb6-40abe4734bb7.png">
 
-# [Data Visualization in Tabluea](https://feyseleyimer.free.resourcespace.com/?c=10&k=230f2213ca)
+# [Data Visualization in Tabluea](https://github.com/fey0/NYC-Airbnb/tree/main)
 * This repository comprises of the visaul works I have done in Tabluea
 * One of the prominent project was on the NYC Airbnb analysis
 ![image](https://github.com/user-attachments/assets/6871376c-0074-4bda-bc8e-ee07b444c3cf)
-
+![image](https://raw.githubusercontent.com/fey0/NYC-Airbnb/main/Sheet%202.bmp)
+![image](https://raw.githubusercontent.com/fey0/NYC-Airbnb/main/Sheet%203.bmp)
 # [Analysis Reports](https://feyseleyimer.free.resourcespace.com/?c=9&k=bbf4ee7f22)
 * Analysis on NYC Airbnb 
 * Analysis report on the company ViacomCBS
