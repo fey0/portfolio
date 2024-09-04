@@ -58,6 +58,13 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 
 **Significance:** The analysis suggests ViacomCBS is well-positioned for future growth, particularly in streaming, and could be a promising long-term investment.
 
+## NYC Airbnb Analysis
+**Purpose:** Investigated the impact of Airbnb on New York City’s housing market through exploratory data analysis.
+
+**Findings:** Airbnb listings, particularly entire homes and private rooms, are contributing to a shortage of long-term housing for NYC residents. The analysis revealed higher prices and minimum stay requirements in more expensive boroughs.
+
+**Significance:** The findings suggest that Airbnb’s operations are affecting housing availability and affordability in NYC, highlighting a need for policy considerations.
+
 ## Tesla SWOT Analysis
 **Purpose:** Analyzed Tesla’s strengths, weaknesses, opportunities, and threats to assess its market position and future outlook.
 
@@ -65,12 +72,7 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 
 **Significance:** The SWOT analysis highlights Tesla’s competitive advantages and potential risks, providing a comprehensive view of its strategic landscape.
 
-## NYC Airbnb Analysis
-**Purpose:** Investigated the impact of Airbnb on New York City’s housing market through exploratory data analysis.
 
-**Findings:** Airbnb listings, particularly entire homes and private rooms, are contributing to a shortage of long-term housing for NYC residents. The analysis revealed higher prices and minimum stay requirements in more expensive boroughs.
-
-**Significance:** The findings suggest that Airbnb’s operations are affecting housing availability and affordability in NYC, highlighting a need for policy considerations.
 
 
 
