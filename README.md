@@ -44,7 +44,7 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
   - `scikit-learn` for TFIDF implementation
   - `nltk` for stopwords removal
 - **Dataset:** CSV file with Netflix titles
----
+--
 
 # [Data Visualization in Tabluea](https://github.com/fey0/NYC-Airbnb/tree/main)
 * This repository comprises of the visaul works I have done in Tabluea
