@@ -48,7 +48,6 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 # [Data Visualization in Tabluea](https://github.com/fey0/NYC-Airbnb/tree/main)
 * This repository comprises of the visaul works I have done in Tabluea
 * One of the prominent project was on the NYC Airbnb analysis
-![image](https://github.com/user-attachments/assets/6871376c-0074-4bda-bc8e-ee07b444c3cf)
 
 # [Analysis Reports]()
 * Analysis on NYC Airbnb 
