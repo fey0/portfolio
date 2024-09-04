@@ -40,10 +40,22 @@ Graduation: May 2021
 * Analysis report on the company ViacomCBS
 * The reports provide company insight and recommendations
 
-# [Hadoop, HIVE, Spark and SQL Experience](https://feyseleyimer.free.resourcespace.com/?c=12&k=aed73473e8)
-* I implemented a database in Google Cloud Platform
-* The database uses Hadoop decentralized system for storage and processing of datasets
-* It also showcases my skillset with SQL queries
+# [Hive vs. Spark Speed Comparison Project](https://github.com/fey0/data-engineering)
+
+### Key Skills Demonstrated
+- **Data Preparation:** Cleaned and formatted datasets using Excel and OpenRefine; uploaded data to Google Cloud Platform (GCP).
+- **Cluster Management:** Deployed and managed a Hadoop cluster on GCP; handled data transfer to HDFS.
+- **Schema and Query Design:** Created and optimized schemas in Hive; executed and benchmarked queries.
+- **Spark Implementation:** Configured and compared Spark SQL performance with Hive; analyzed query efficiency.
+
+### Technologies Used
+- **Google Cloud Platform (GCP)**
+- **Apache Hive (Hive2, Hive Metastore)**
+- **Apache Spark**
+- **Hadoop Distributed File System (HDFS)**
+- **YARN**
+- **OpenRefine**
+- **Excel**
 
 # Interests:
 * Building computer systems
