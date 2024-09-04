@@ -49,11 +49,29 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 * This repository comprises of the visaul works I have done in Tabluea
 * One of the prominent project was on the NYC Airbnb analysis
 
-# [Analysis Reports](https://github.com/fey0/analysis-reports)
-* Analysis on NYC Airbnb 
-* Analysis report on the company ViacomCBS
-* SWOT analysis report on Tesla
-* The reports provide company insight and recommendations
+# [Business Analysis and Strategic Insights](https://github.com/fey0/analysis-reports)
+
+## ViacomCBS Inc. (VIAC) Analysis
+**Purpose:** Evaluated ViacomCBS’s market position and financial health, focusing on its recent strategic shifts and performance metrics.
+
+**Findings:** ViacomCBS is transitioning towards a service-based model with the launch of Paramount+ and SHOWTIME bundles. Despite recent revenue growth, the company faces competition from larger streaming services like Netflix. Its diverse content offerings and ad-based Pluto TV provide growth potential.
+
+**Significance:** The analysis suggests ViacomCBS is well-positioned for future growth, particularly in streaming, and could be a promising long-term investment.
+
+## Tesla SWOT Analysis
+**Purpose:** Analyzed Tesla’s strengths, weaknesses, opportunities, and threats to assess its market position and future outlook.
+
+**Findings:** Tesla’s strengths include innovation and strong brand loyalty, while weaknesses involve high production costs and supply chain issues. Opportunities exist in expanding EV markets, while threats include increasing competition and regulatory challenges.
+
+**Significance:** The SWOT analysis highlights Tesla’s competitive advantages and potential risks, providing a comprehensive view of its strategic landscape.
+
+## NYC Airbnb Analysis
+**Purpose:** Investigated the impact of Airbnb on New York City’s housing market through exploratory data analysis.
+
+**Findings:** Airbnb listings, particularly entire homes and private rooms, are contributing to a shortage of long-term housing for NYC residents. The analysis revealed higher prices and minimum stay requirements in more expensive boroughs.
+
+**Significance:** The findings suggest that Airbnb’s operations are affecting housing availability and affordability in NYC, highlighting a need for policy considerations.
+
 
 
 
