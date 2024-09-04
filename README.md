@@ -46,8 +46,8 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 --
 
 # [Data Visualization in Tabluea](https://github.com/fey0/NYC-Airbnb/tree/main)
-* This repository comprises of the visaul works I have done in Tabluea
-* One of the prominent project was on the NYC Airbnb analysis
+- This repository showcases the data visualizations I have created using Tableau.
+- Notable project: New York Airbnb analysis, where Tableau was used to complement the analysis report by deriving insights and recommendations.
 
 # [Business Analysis and Strategic Insights](https://github.com/fey0/analysis-reports)
 
@@ -71,11 +71,6 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 **Findings:** Tesla’s strengths include innovation and strong brand loyalty, while weaknesses involve high production costs and supply chain issues. Opportunities exist in expanding EV markets, while threats include increasing competition and regulatory challenges.
 
 **Significance:** The SWOT analysis highlights Tesla’s competitive advantages and potential risks, providing a comprehensive view of its strategic landscape.
-
-
-
-
-
 
 # Interests:
 * Building computer systems
