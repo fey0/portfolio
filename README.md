@@ -49,7 +49,7 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 * This repository comprises of the visaul works I have done in Tabluea
 * One of the prominent project was on the NYC Airbnb analysis
 
-# [Analysis Reports]()
+# [Analysis Reports](https://github.com/fey0/analysis-reports)
 * Analysis on NYC Airbnb 
 * Analysis report on the company ViacomCBS
 * The reports provide company insight and recommendations
