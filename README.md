@@ -11,35 +11,6 @@ Associate of Science, School of Engineering, Technology, Mathematics, and Scienc
 GPA: 4.0 / 4.0  
 Graduation: May 2021
 
-# [Main Project](https://github.com/fey0/Netflix-Recommender)
-* A netflix recommendation system 
-* Was created using a netflix dataset from a kaggle repository
-* I made this to learn how the TFIDF (Term Frequency, Inverse Document Frequency) technique worked 
-* TFIDF is often used for indexing documents for a retrieval system 
-* the TFIDF is used for giving each words in a document or description a weight which can be used to facilitate search for relevant items or in this case content
-* I added up on this by using it in a reccomendation system that provides users recommendations that are similar to their watched list
-
-# Basic Analysis of Dataset
-<img width="153" alt="Screen Shot 2021-12-06 at 9 40 41 PM" src="https://user-images.githubusercontent.com/103683812/163730384-4412659f-f59d-4ad8-812b-70e8bb06782e.png">
-
-# Requirements 
-* pandas dataframe
-* scikit-learn
-* nltk stopwords list to remove any meaningless terms like articles and prepostions 
-* the csv file that stores the netflix titles 
-
-# Example
-<img width="447" alt="Screen Shot 2021-12-07 at 11 15 47 AM" src="https://user-images.githubusercontent.com/103683812/163730358-bb52fc85-d494-47b7-afb6-40abe4734bb7.png">
-
-# [Data Visualization in Tabluea](https://github.com/fey0/NYC-Airbnb/tree/main)
-* This repository comprises of the visaul works I have done in Tabluea
-* One of the prominent project was on the NYC Airbnb analysis
-![image](https://github.com/user-attachments/assets/6871376c-0074-4bda-bc8e-ee07b444c3cf)
-# [Analysis Reports]()
-* Analysis on NYC Airbnb 
-* Analysis report on the company ViacomCBS
-* The reports provide company insight and recommendations
-
 # [Hive vs. Spark Speed Comparison Project](https://github.com/fey0/data-engineering)
 
 ### Key Skills Demonstrated
@@ -56,6 +27,42 @@ Graduation: May 2021
 - **YARN**
 - **OpenRefine**
 - **Excel**
+  
+# [Netflix Recommendation System](https://github.com/fey0/Netflix-Recommender)
+
+### Project Overview
+Developed a recommendation system using a Netflix dataset from Kaggle to explore the TFIDF (Term Frequency, Inverse Document Frequency) technique. The system suggests content similar to the user's watched list based on TFIDF analysis.
+
+### Key Skills Demonstrated
+- **TFIDF Implementation:** Applied TFIDF to weight words in documents, enhancing content search and recommendations.
+- **Recommendation Engine:** Created a system to recommend similar content based on user viewing history.
+
+### Technologies Used
+- **Libraries and Tools:**
+  - `pandas` for data manipulation
+  - `scikit-learn` for TFIDF implementation
+  - `nltk` for stopwords removal
+- **Dataset:** CSV file with Netflix titles
+
+
+### Basic Analysis of Dataset
+<img width="253" src="https://user-images.githubusercontent.com/103683812/163730384-4412659f-f59d-4ad8-812b-70e8bb06782e.png">
+
+### Example
+<img width="447" src="https://user-images.githubusercontent.com/103683812/163730358-bb52fc85-d494-47b7-afb6-40abe4734bb7.png">
+---
+
+# [Data Visualization in Tabluea](https://github.com/fey0/NYC-Airbnb/tree/main)
+* This repository comprises of the visaul works I have done in Tabluea
+* One of the prominent project was on the NYC Airbnb analysis
+![image](https://github.com/user-attachments/assets/6871376c-0074-4bda-bc8e-ee07b444c3cf)
+
+# [Analysis Reports]()
+* Analysis on NYC Airbnb 
+* Analysis report on the company ViacomCBS
+* The reports provide company insight and recommendations
+
+
 
 # Interests:
 * Building computer systems
