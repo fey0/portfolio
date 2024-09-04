@@ -52,6 +52,7 @@ Developed a recommendation system using a Netflix dataset from Kaggle to explore
 # [Analysis Reports](https://github.com/fey0/analysis-reports)
 * Analysis on NYC Airbnb 
 * Analysis report on the company ViacomCBS
+* SWOT analysis report on Tesla
 * The reports provide company insight and recommendations
 
 
