@@ -11,7 +11,7 @@ Associate of Science, School of Engineering, Technology, Mathematics, and Scienc
 GPA: 4.0 / 4.0  
 Graduation: May 2021
 
-# [Hive vs. Spark Speed Comparison Project](https://github.com/fey0/data-engineering)
+# [Comparative Analysis: Hive vs. Spark Project](https://github.com/fey0/data-engineering)
 
 ### Key Skills Demonstrated
 - **Data Preparation:** Cleaned and formatted datasets using Excel and OpenRefine; uploaded data to Google Cloud Platform (GCP).
