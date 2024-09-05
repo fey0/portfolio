@@ -21,12 +21,15 @@ Graduation: May 2021
 
 ### Technologies Used
 - **Google Cloud Platform (GCP)**
+- **Linux (Debian-based)**
 - **Apache Hive (Hive2, Hive Metastore)**
 - **Apache Spark**
 - **Hadoop Distributed File System (HDFS)**
 - **YARN**
+- **HQL (Hive Query Language)**
 - **OpenRefine**
 - **Excel**
+
   
 # [Netflix Recommendation System](https://github.com/fey0/Netflix-Recommender)
 
